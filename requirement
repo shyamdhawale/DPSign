@@ -9,3 +9,5 @@ screen rotate
 notice page
 credentials to access page.
 access point with static password
+IP address should be shown if it changed from last one
+time on webpage
